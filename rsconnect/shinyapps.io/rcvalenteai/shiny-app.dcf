@@ -1,0 +1,12 @@
+name: shiny-app
+title: shiny-app
+username:
+account: rcvalenteai
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2615402
+bundleId: 3439408
+url: https://rcvalenteai.shinyapps.io/shiny-app/
+when: 1595821302.57787
+asMultiple: FALSE
+asStatic: FALSE
